@@ -14,3 +14,5 @@ export default class ImageComponent extends Component{
         )
     }
 }
+
+<div></div>
