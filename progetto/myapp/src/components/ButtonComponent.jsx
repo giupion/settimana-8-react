@@ -1,10 +1,13 @@
 import React from 'react';
 
-function ButtonComponent() {
+
+
+function ButtonComponent(txtButton) {
   
     return (
+        
         <React.Fragment>
-          <button></button>
+          <button>{txtButton}</button>
         </React.Fragment>
     )
 }
