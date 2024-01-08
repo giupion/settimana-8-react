@@ -2,7 +2,7 @@ import React from 'react';
 
 
 
-function ButtonComponent(txtButton) {
+function ButtonComponent({txtButton}) {
   
     return (
         
